@@ -1,0 +1,14 @@
+package JavaTutorial;
+
+public class JavaTutorial_Pizza_with_20_percent_discount {
+
+	public static void main(String[] args) {
+		// ans-8
+		 float a = 399;
+		 System.out.println("Price with 20% discount is:");
+		 System.out.println((a*2)*20/100);
+
+		
+	}
+
+}
